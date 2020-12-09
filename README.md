@@ -63,7 +63,7 @@ The Generation class cycles through the generations.  This is the class that ani
 
 The RestartListener class restarts the game.
 
-The SaveImageListener class creates a BufferedImage and saves the image as a GIF, JPEG, or PNG file.
+The SaveImageListener class creates a BufferedImage of the grid and generation number and saves the image as a GIF, JPEG, or PNG file.
 
 ## Epilog
 
